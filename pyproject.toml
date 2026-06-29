@@ -1,0 +1,16 @@
+[project]
+name = "fastbook-study"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "azure-cognitiveservices-search-imagesearch>=2.0.1",
+    "fastai>=2.0.0",
+    "fastbook>=0.0.28",
+    "graphviz>=0.21",
+    "ipywidgets>=8.1.8",
+    "matplotlib>=3.11.0",
+    "nbdev>=0.2.12",
+    "pandas>=3.0.4",
+    "scikit-learn>=1.9.0",
+    "sentencepiece>=0.2.1",
+]
