@@ -11,6 +11,7 @@ dependencies = [
     "matplotlib>=3.11.0",
     "nbdev>=0.2.12",
     "pandas>=3.0.4",
+    "pretty-midi>=0.2.11",
     "scikit-learn>=1.9.0",
     "sentencepiece>=0.2.1",
 ]
